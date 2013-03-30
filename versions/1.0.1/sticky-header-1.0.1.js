@@ -1,11 +1,10 @@
 /* 
- * sticky-header.js
+ * sticky-header.js v1.0.1
  * MIT licensed
  *
  * Created by Daniel Imms, http://www.growingwiththeweb.com
  */
 
-/*jslint browser: true, plusplus: true */
 (function(window, document) {
     'use strict';
 

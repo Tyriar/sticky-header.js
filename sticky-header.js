@@ -59,6 +59,7 @@
         if (!this.element.style.position) {
             this.element.style.position = 'relative';
         }
+        this.floatingHeader.setAttribute('aria-hidden', 'true');
         this.floatingHeader.style.position = 'absolute';
         this.floatingHeader.style.top = '0';
 

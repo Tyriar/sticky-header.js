@@ -1,5 +1,7 @@
 # sticky-header.js
 
+[![Code climate](http://img.shields.io/codeclimate/github/Tyriar/sticky-header.js.svg?style=flat)](https://codeclimate.com/github/Tyriar/sticky-header.js)
+
 A JavaScript library that enables a table's header to scroll with the page.
 
 ![An example of a table header scrolling with the table](http://3.bp.blogspot.com/-smWCVOs_wlo/UVa0yXR8JDI/AAAAAAAAOUM/p0ccflBSusI/s1600/demo.png)
@@ -13,7 +15,7 @@ The scrolling header is accomplished by cloning the `<thead>` element which is t
     <table class="sticky-header">
         ...
     </table>
-    
+
 ## Support
 
  - Chrome
@@ -21,7 +23,7 @@ The scrolling header is accomplished by cloning the `<thead>` element which is t
  - Safari
  - Opera
  - Internet Explorer 8+
-    
+
 ## License
 
 > Copyright (C) 2012 Daniel Imms, [http://www.growingwiththeweb.com](http://www.growingwiththeweb.com)
@@ -43,7 +45,7 @@ The scrolling header is accomplished by cloning the `<thead>` element which is t
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
-    
+
 ## Links
 
  - [Write-up on my blog](http://www.growingwiththeweb.com/2013/03/sticky-headerjs.html)

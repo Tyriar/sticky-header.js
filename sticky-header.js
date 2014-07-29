@@ -37,7 +37,9 @@
       return window.pageYOffset;
     }
     var docElement = document.documentElement;
-    docElement = (docElement.clientHeight) ? docElement : document.body;
+    if (!docElement.clientHeight) {
+      docElement = documentBody;
+    }
     return docElement.scrollTop;
   }
 

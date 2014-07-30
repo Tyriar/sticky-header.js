@@ -1,5 +1,6 @@
 # sticky-header.js
 
+[![Build Status](http://img.shields.io/travis/Tyriar/sticky-header.js.svg?style=flat)](http://travis-ci.org/Tyriar/sticky-header.js)
 [![Code climate](http://img.shields.io/codeclimate/github/Tyriar/sticky-header.js.svg?style=flat)](https://codeclimate.com/github/Tyriar/sticky-header.js)
 
 A JavaScript library that enables a table's header to scroll with the page.

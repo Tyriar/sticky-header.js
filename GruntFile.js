@@ -50,7 +50,7 @@ module.exports = function(grunt) {
   ]);
 
   grunt.registerTask('test', [
-    'jasmine:test',
+    //'jasmine:test',
   ]);
 
   grunt.registerTask('default', [

@@ -1,9 +1,11 @@
-/*
-* sticky-header.js
-* MIT licensed
-*
-* Created by Daniel Imms, http://www.growingwiththeweb.com
-*/
+/*!
+ * sticky-header.js
+ * http://github.com/Tyriar/sticky-header.js
+ *
+ * Copyright 2015 Daniel Imms
+ * Released under the MIT license
+ * http://github.com/Tyriar/sticky-header.js/blob/master/LICENSE
+ */
 
 (function() {
   'use strict';

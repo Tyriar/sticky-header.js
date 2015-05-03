@@ -13,9 +13,11 @@ The scrolling header is accomplished by cloning the `<thead>` element which is t
 
 ## Usage
 
-    <table class="sticky-header">
-        ...
-    </table>
+```html
+<table class="sticky-header">
+    ...
+</table>
+```
 
 ## Support
 
